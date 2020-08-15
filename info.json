@@ -1,9 +1,9 @@
 {
-  "name": "sonaxaton-infinite-resources",
-  "version": "0.4.4",
+  "name": "booomit-infinite-resources",
+  "version": "1.0.0",
   "title": "Infinite Resources",
-  "author": "sonaxaton",
-  "homepage": "https://mods.factorio.com/mod/sonaxaton-infinite-resources",
+  "author": "Booomit",
+  "homepage": "https://mods.factorio.com/mod/booomit-infinite-resources",
   "description": "Makes all resources infinite.",
   "factorio_version": "1.0",
   "dependencies": []
