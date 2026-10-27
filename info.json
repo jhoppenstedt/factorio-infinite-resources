@@ -1,10 +1,10 @@
 {
   "name": "booomit-infinite-resources",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "title": "Infinite Resources",
   "author": "Booomit",
   "homepage": "https://mods.factorio.com/mod/booomit-infinite-resources",
   "description": "Makes all resources infinite.",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": []
 }
